@@ -1,0 +1,15 @@
+#app {
+  text-align: center;
+}
+.button {
+  border: 1px solid rgb(255, 69, 0);
+  padding: 10px 70px;
+}
+
+.button:hover {
+  background: orangered;
+}
+
+body {
+  margin-top: 70px;
+}
